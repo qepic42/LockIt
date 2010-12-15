@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		100C70AC12676D2C00E4A16A /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 100C70AB12676D2C00E4A16A /* CFNetwork.framework */; };
+		100C70C512676DB100E4A16A /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70B612676DB100E4A16A /* AsyncSocket.m */; };
+		100C70C612676DB100E4A16A /* DDData.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70B812676DB100E4A16A /* DDData.m */; };
+		100C70C712676DB100E4A16A /* DDNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70BA12676DB100E4A16A /* DDNumber.m */; };
+		100C70C812676DB100E4A16A /* DDRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70BC12676DB100E4A16A /* DDRange.m */; };
+		100C70C912676DB100E4A16A /* HTTPAuthenticationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70BE12676DB100E4A16A /* HTTPAuthenticationRequest.m */; };
+		100C70CA12676DB100E4A16A /* HTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70C012676DB100E4A16A /* HTTPConnection.m */; };
+		100C70CB12676DB100E4A16A /* HTTPResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70C212676DB100E4A16A /* HTTPResponse.m */; };
+		100C70CC12676DB100E4A16A /* HTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70C412676DB100E4A16A /* HTTPServer.m */; };
+		100C70CF12676DC100E4A16A /* LockItHTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70CE12676DC100E4A16A /* LockItHTTPConnection.m */; };
+		100C70D212676DC800E4A16A /* LockItServerSetup.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70D112676DC800E4A16A /* LockItServerSetup.m */; };
+		100C70D812676DF200E4A16A /* NetworkService.m in Sources */ = {isa = PBXBuildFile; fileRef = 100C70D712676DF200E4A16A /* NetworkService.m */; };
+		105D48DA1284D57000984D4D /* LockSliderCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 105D48D91284D57000984D4D /* LockSliderCell.xib */; };
+		105D490E12856BC000984D4D /* LockSliderProgress.xib in Resources */ = {isa = PBXBuildFile; fileRef = 105D490D12856BC000984D4D /* LockSliderProgress.xib */; };
+		106B9C9412676C0E00773A70 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 106B9C9312676C0E00773A70 /* UIKit.framework */; };
+		106B9C9612676C0E00773A70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 106B9C9512676C0E00773A70 /* Foundation.framework */; };
+		106B9C9812676C0E00773A70 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 106B9C9712676C0E00773A70 /* CoreGraphics.framework */; };
+		106B9C9D12676C0E00773A70 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 106B9C9B12676C0E00773A70 /* InfoPlist.strings */; };
+		106B9C9F12676C0E00773A70 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 106B9C9E12676C0E00773A70 /* main.m */; };
+		106B9CA212676C0F00773A70 /* lockItAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 106B9CA112676C0F00773A70 /* lockItAppDelegate.m */; };
+		106B9CA512676C0F00773A70 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 106B9CA312676C0F00773A70 /* MainWindow.xib */; };
+		108DC259128B007B007C0133 /* Bonjour.png in Resources */ = {isa = PBXBuildFile; fileRef = 108DC258128B007B007C0133 /* Bonjour.png */; };
+		108DC27C128B075E007C0133 /* secure1.png in Resources */ = {isa = PBXBuildFile; fileRef = 108DC27A128B075E007C0133 /* secure1.png */; };
+		108DC27D128B075E007C0133 /* secure2.png in Resources */ = {isa = PBXBuildFile; fileRef = 108DC27B128B075E007C0133 /* secure2.png */; };
+		108DC291128B3AF4007C0133 /* RootViewLockedCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 108DC290128B3AF4007C0133 /* RootViewLockedCell.xib */; };
+		108DC293128B3B08007C0133 /* RootViewLockedWithTimerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 108DC292128B3B08007C0133 /* RootViewLockedWithTimerCell.xib */; };
+		108DC295128B3B2B007C0133 /* RootViewUnlockedCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 108DC294128B3B2A007C0133 /* RootViewUnlockedCell.xib */; };
+		109B89FF12678FC800E180DA /* RootView.m in Sources */ = {isa = PBXBuildFile; fileRef = 109B89FD12678FC800E180DA /* RootView.m */; };
+		10AD680E127E2BF700ACBE97 /* LockButtonCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 10AD680D127E2BF700ACBE97 /* LockButtonCell.xib */; };
+		10D08CE012AC145D0038412E /* DataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 10D08CDF12AC145D0038412E /* DataModel.m */; };
+		10DEC581127DD01300B81AF7 /* DetailLockView.m in Sources */ = {isa = PBXBuildFile; fileRef = 10DEC57F127DD01300B81AF7 /* DetailLockView.m */; };
+		10DEC582127DD01300B81AF7 /* DetailLockView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 10DEC580127DD01300B81AF7 /* DetailLockView.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		100C70AB12676D2C00E4A16A /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		100C70B512676DB100E4A16A /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncSocket.h; sourceTree = "<group>"; };
+		100C70B612676DB100E4A16A /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncSocket.m; sourceTree = "<group>"; };
+		100C70B712676DB100E4A16A /* DDData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDData.h; sourceTree = "<group>"; };
+		100C70B812676DB100E4A16A /* DDData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDData.m; sourceTree = "<group>"; };
+		100C70B912676DB100E4A16A /* DDNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDNumber.h; sourceTree = "<group>"; };
+		100C70BA12676DB100E4A16A /* DDNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDNumber.m; sourceTree = "<group>"; };
+		100C70BB12676DB100E4A16A /* DDRange.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDRange.h; sourceTree = "<group>"; };
+		100C70BC12676DB100E4A16A /* DDRange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDRange.m; sourceTree = "<group>"; };
+		100C70BD12676DB100E4A16A /* HTTPAuthenticationRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPAuthenticationRequest.h; sourceTree = "<group>"; };
+		100C70BE12676DB100E4A16A /* HTTPAuthenticationRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPAuthenticationRequest.m; sourceTree = "<group>"; };
+		100C70BF12676DB100E4A16A /* HTTPConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPConnection.h; sourceTree = "<group>"; };
+		100C70C012676DB100E4A16A /* HTTPConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPConnection.m; sourceTree = "<group>"; };
+		100C70C112676DB100E4A16A /* HTTPResponse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPResponse.h; sourceTree = "<group>"; };
+		100C70C212676DB100E4A16A /* HTTPResponse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPResponse.m; sourceTree = "<group>"; };
+		100C70C312676DB100E4A16A /* HTTPServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPServer.h; sourceTree = "<group>"; };
+		100C70C412676DB100E4A16A /* HTTPServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPServer.m; sourceTree = "<group>"; };
+		100C70CD12676DC100E4A16A /* LockItHTTPConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LockItHTTPConnection.h; sourceTree = "<group>"; };
+		100C70CE12676DC100E4A16A /* LockItHTTPConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LockItHTTPConnection.m; sourceTree = "<group>"; };
+		100C70D012676DC800E4A16A /* LockItServerSetup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LockItServerSetup.h; sourceTree = "<group>"; };
+		100C70D112676DC800E4A16A /* LockItServerSetup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LockItServerSetup.m; sourceTree = "<group>"; };
+		100C70D612676DF200E4A16A /* NetworkService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkService.h; sourceTree = "<group>"; };
+		100C70D712676DF200E4A16A /* NetworkService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkService.m; sourceTree = "<group>"; };
+		105D48D91284D57000984D4D /* LockSliderCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LockSliderCell.xib; sourceTree = "<group>"; };
+		105D490D12856BC000984D4D /* LockSliderProgress.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LockSliderProgress.xib; sourceTree = "<group>"; };
+		106B9C9012676C0E00773A70 /* LockIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LockIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		106B9C9312676C0E00773A70 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		106B9C9512676C0E00773A70 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		106B9C9712676C0E00773A70 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		106B9C9912676C0E00773A70 /* LockIt-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LockIt-Info.plist"; sourceTree = "<group>"; };
+		106B9C9A12676C0E00773A70 /* LockIt_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LockIt_Prefix.pch; sourceTree = "<group>"; };
+		106B9C9C12676C0E00773A70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		106B9C9E12676C0E00773A70 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		106B9CA012676C0F00773A70 /* lockItAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lockItAppDelegate.h; sourceTree = "<group>"; };
+		106B9CA112676C0F00773A70 /* lockItAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lockItAppDelegate.m; sourceTree = "<group>"; };
+		106B9CA412676C0F00773A70 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		108DC258128B007B007C0133 /* Bonjour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bonjour.png; sourceTree = "<group>"; };
+		108DC27A128B075E007C0133 /* secure1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = secure1.png; sourceTree = "<group>"; };
+		108DC27B128B075E007C0133 /* secure2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = secure2.png; sourceTree = "<group>"; };
+		108DC290128B3AF4007C0133 /* RootViewLockedCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewLockedCell.xib; sourceTree = "<group>"; };
+		108DC292128B3B08007C0133 /* RootViewLockedWithTimerCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewLockedWithTimerCell.xib; sourceTree = "<group>"; };
+		108DC294128B3B2A007C0133 /* RootViewUnlockedCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewUnlockedCell.xib; sourceTree = "<group>"; };
+		109B89FC12678FC800E180DA /* RootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootView.h; sourceTree = "<group>"; };
+		109B89FD12678FC800E180DA /* RootView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootView.m; sourceTree = "<group>"; };
+		10AD680D127E2BF700ACBE97 /* LockButtonCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LockButtonCell.xib; sourceTree = "<group>"; };
+		10D08CDE12AC145D0038412E /* DataModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataModel.h; sourceTree = SOURCE_ROOT; };
+		10D08CDF12AC145D0038412E /* DataModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataModel.m; sourceTree = SOURCE_ROOT; };
+		10DEC57E127DD01300B81AF7 /* DetailLockView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailLockView.h; sourceTree = "<group>"; };
+		10DEC57F127DD01300B81AF7 /* DetailLockView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailLockView.m; sourceTree = "<group>"; };
+		10DEC580127DD01300B81AF7 /* DetailLockView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DetailLockView.xib; path = Classes/DetailLockView.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		106B9C8D12676C0E00773A70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				106B9C9412676C0E00773A70 /* UIKit.framework in Frameworks */,
+				106B9C9612676C0E00773A70 /* Foundation.framework in Frameworks */,
+				106B9C9812676C0E00773A70 /* CoreGraphics.framework in Frameworks */,
+				100C70AC12676D2C00E4A16A /* CFNetwork.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		100C70AF12676D3B00E4A16A /* CocoaHTTPServer */ = {
+			isa = PBXGroup;
+			children = (
+				100C70B512676DB100E4A16A /* AsyncSocket.h */,
+				100C70B612676DB100E4A16A /* AsyncSocket.m */,
+				100C70B712676DB100E4A16A /* DDData.h */,
+				100C70B812676DB100E4A16A /* DDData.m */,
+				100C70B912676DB100E4A16A /* DDNumber.h */,
+				100C70BA12676DB100E4A16A /* DDNumber.m */,
+				100C70BB12676DB100E4A16A /* DDRange.h */,
+				100C70BC12676DB100E4A16A /* DDRange.m */,
+				100C70BD12676DB100E4A16A /* HTTPAuthenticationRequest.h */,
+				100C70BE12676DB100E4A16A /* HTTPAuthenticationRequest.m */,
+				100C70BF12676DB100E4A16A /* HTTPConnection.h */,
+				100C70C012676DB100E4A16A /* HTTPConnection.m */,
+				100C70C112676DB100E4A16A /* HTTPResponse.h */,
+				100C70C212676DB100E4A16A /* HTTPResponse.m */,
+				100C70C312676DB100E4A16A /* HTTPServer.h */,
+				100C70C412676DB100E4A16A /* HTTPServer.m */,
+			);
+			name = CocoaHTTPServer;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		106B9C8112676C0E00773A70 = {
+			isa = PBXGroup;
+			children = (
+				106B9C8812676C0E00773A70 /* Classes */,
+				106B9C8912676C0E00773A70 /* Other Sources */,
+				106B9C8A12676C0E00773A70 /* Resources */,
+				106B9C8B12676C0E00773A70 /* Frameworks */,
+				106B9C9112676C0E00773A70 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		106B9C8812676C0E00773A70 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				106B9CA012676C0F00773A70 /* lockItAppDelegate.h */,
+				106B9CA112676C0F00773A70 /* lockItAppDelegate.m */,
+				10D08CDB12AC13FF0038412E /* Network */,
+				10D08CDC12AC14250038412E /* GUI */,
+				10D08CDD12AC14320038412E /* Data */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		106B9C8912676C0E00773A70 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				106B9C9A12676C0E00773A70 /* LockIt_Prefix.pch */,
+				106B9C9E12676C0E00773A70 /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		106B9C8A12676C0E00773A70 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				108DC258128B007B007C0133 /* Bonjour.png */,
+				108DC27A128B075E007C0133 /* secure1.png */,
+				108DC27B128B075E007C0133 /* secure2.png */,
+				10DEC580127DD01300B81AF7 /* DetailLockView.xib */,
+				10AD680D127E2BF700ACBE97 /* LockButtonCell.xib */,
+				108DC292128B3B08007C0133 /* RootViewLockedWithTimerCell.xib */,
+				105D48D91284D57000984D4D /* LockSliderCell.xib */,
+				108DC294128B3B2A007C0133 /* RootViewUnlockedCell.xib */,
+				105D490D12856BC000984D4D /* LockSliderProgress.xib */,
+				108DC290128B3AF4007C0133 /* RootViewLockedCell.xib */,
+				106B9C9912676C0E00773A70 /* LockIt-Info.plist */,
+				106B9C9B12676C0E00773A70 /* InfoPlist.strings */,
+				106B9CA312676C0F00773A70 /* MainWindow.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		106B9C8B12676C0E00773A70 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				106B9C9312676C0E00773A70 /* UIKit.framework */,
+				106B9C9512676C0E00773A70 /* Foundation.framework */,
+				106B9C9712676C0E00773A70 /* CoreGraphics.framework */,
+				100C70AB12676D2C00E4A16A /* CFNetwork.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		106B9C9112676C0E00773A70 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				106B9C9012676C0E00773A70 /* LockIt.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		10D08CDB12AC13FF0038412E /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				100C70D012676DC800E4A16A /* LockItServerSetup.h */,
+				100C70D112676DC800E4A16A /* LockItServerSetup.m */,
+				100C70CD12676DC100E4A16A /* LockItHTTPConnection.h */,
+				100C70CE12676DC100E4A16A /* LockItHTTPConnection.m */,
+				100C70D612676DF200E4A16A /* NetworkService.h */,
+				100C70D712676DF200E4A16A /* NetworkService.m */,
+				100C70AF12676D3B00E4A16A /* CocoaHTTPServer */,
+			);
+			name = Network;
+			sourceTree = "<group>";
+		};
+		10D08CDC12AC14250038412E /* GUI */ = {
+			isa = PBXGroup;
+			children = (
+				109B89FC12678FC800E180DA /* RootView.h */,
+				109B89FD12678FC800E180DA /* RootView.m */,
+				10DEC57E127DD01300B81AF7 /* DetailLockView.h */,
+				10DEC57F127DD01300B81AF7 /* DetailLockView.m */,
+			);
+			name = GUI;
+			sourceTree = "<group>";
+		};
+		10D08CDD12AC14320038412E /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				10D08CDE12AC145D0038412E /* DataModel.h */,
+				10D08CDF12AC145D0038412E /* DataModel.m */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		106B9C8F12676C0E00773A70 /* LockIt */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 106B9CAE12676C0F00773A70 /* Build configuration list for PBXNativeTarget "LockIt" */;
+			buildPhases = (
+				106B9C8C12676C0E00773A70 /* Sources */,
+				106B9C8D12676C0E00773A70 /* Frameworks */,
+				106B9C8E12676C0E00773A70 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LockIt;
+			productName = lockIt;
+			productReference = 106B9C9012676C0E00773A70 /* LockIt.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		106B9C8312676C0E00773A70 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "LockIt" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 106B9C8112676C0E00773A70;
+			productRefGroup = 106B9C9112676C0E00773A70 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				106B9C8F12676C0E00773A70 /* LockIt */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		106B9C8E12676C0E00773A70 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				106B9C9D12676C0E00773A70 /* InfoPlist.strings in Resources */,
+				106B9CA512676C0F00773A70 /* MainWindow.xib in Resources */,
+				10DEC582127DD01300B81AF7 /* DetailLockView.xib in Resources */,
+				10AD680E127E2BF700ACBE97 /* LockButtonCell.xib in Resources */,
+				105D48DA1284D57000984D4D /* LockSliderCell.xib in Resources */,
+				105D490E12856BC000984D4D /* LockSliderProgress.xib in Resources */,
+				108DC259128B007B007C0133 /* Bonjour.png in Resources */,
+				108DC27C128B075E007C0133 /* secure1.png in Resources */,
+				108DC27D128B075E007C0133 /* secure2.png in Resources */,
+				108DC291128B3AF4007C0133 /* RootViewLockedCell.xib in Resources */,
+				108DC293128B3B08007C0133 /* RootViewLockedWithTimerCell.xib in Resources */,
+				108DC295128B3B2B007C0133 /* RootViewUnlockedCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		106B9C8C12676C0E00773A70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				106B9C9F12676C0E00773A70 /* main.m in Sources */,
+				106B9CA212676C0F00773A70 /* lockItAppDelegate.m in Sources */,
+				100C70C512676DB100E4A16A /* AsyncSocket.m in Sources */,
+				100C70C612676DB100E4A16A /* DDData.m in Sources */,
+				100C70C712676DB100E4A16A /* DDNumber.m in Sources */,
+				100C70C812676DB100E4A16A /* DDRange.m in Sources */,
+				100C70C912676DB100E4A16A /* HTTPAuthenticationRequest.m in Sources */,
+				100C70CA12676DB100E4A16A /* HTTPConnection.m in Sources */,
+				100C70CB12676DB100E4A16A /* HTTPResponse.m in Sources */,
+				100C70CC12676DB100E4A16A /* HTTPServer.m in Sources */,
+				100C70CF12676DC100E4A16A /* LockItHTTPConnection.m in Sources */,
+				100C70D212676DC800E4A16A /* LockItServerSetup.m in Sources */,
+				100C70D812676DF200E4A16A /* NetworkService.m in Sources */,
+				109B89FF12678FC800E180DA /* RootView.m in Sources */,
+				10DEC581127DD01300B81AF7 /* DetailLockView.m in Sources */,
+				10D08CE012AC145D0038412E /* DataModel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		106B9C9B12676C0E00773A70 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				106B9C9C12676C0E00773A70 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		106B9CA312676C0F00773A70 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				106B9CA412676C0F00773A70 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		106B9CAC12676C0F00773A70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphonesimulator4.0;
+			};
+			name = Debug;
+		};
+		106B9CAD12676C0F00773A70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.1;
+			};
+			name = Release;
+		};
+		106B9CAF12676C0F00773A70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = LockIt_Prefix.pch;
+				INFOPLIST_FILE = "LockIt-Info.plist";
+				PRODUCT_NAME = LockIt;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		106B9CB012676C0F00773A70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = LockIt_Prefix.pch;
+				INFOPLIST_FILE = "LockIt-Info.plist";
+				PRODUCT_NAME = LockIt;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "LockIt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				106B9CAC12676C0F00773A70 /* Debug */,
+				106B9CAD12676C0F00773A70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		106B9CAE12676C0F00773A70 /* Build configuration list for PBXNativeTarget "LockIt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				106B9CAF12676C0F00773A70 /* Debug */,
+				106B9CB012676C0F00773A70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 106B9C8312676C0E00773A70 /* Project object */;
+}

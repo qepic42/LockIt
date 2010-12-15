@@ -1,0 +1,1271 @@
+TlockIt
+v7
+r3
+t313536057.709070
+cCheck dependencies
+cProcessInfoPlistFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Info.plist lockIt-Info.plist
+cProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch.gch lockIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch.gch lockIt_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/main.o /Users/Q/Desktop/lockIt/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockItAppDelegate.o /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDData.o /Users/Q/Desktop/lockIt/Classes/../DDData.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDNumber.o /Users/Q/Desktop/lockIt/Classes/../DDNumber.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDRange.o /Users/Q/Desktop/lockIt/Classes/../DDRange.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPAuthenticationRequest.o /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPConnection.o /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPResponse.o /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPServer.o /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItHTTPConnection.o /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItServerSetup.o /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/NetworkService.o /Users/Q/Desktop/lockIt/Classes/NetworkService.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/RootView.o /Users/Q/Desktop/lockIt/Classes/RootView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DetailLockView.o /Users/Q/Desktop/lockIt/Classes/DetailLockView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DataModel.o /Users/Q/Desktop/lockIt/DataModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/main.o /Users/Q/Desktop/lockIt/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt normal armv6
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockItAppDelegate.o /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDData.o /Users/Q/Desktop/lockIt/Classes/../DDData.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDNumber.o /Users/Q/Desktop/lockIt/Classes/../DDNumber.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDRange.o /Users/Q/Desktop/lockIt/Classes/../DDRange.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPAuthenticationRequest.o /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPConnection.o /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPResponse.o /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPServer.o /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItHTTPConnection.o /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItServerSetup.o /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/NetworkService.o /Users/Q/Desktop/lockIt/Classes/NetworkService.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/RootView.o /Users/Q/Desktop/lockIt/Classes/RootView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DetailLockView.o /Users/Q/Desktop/lockIt/Classes/DetailLockView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DataModel.o /Users/Q/Desktop/lockIt/DataModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt normal armv7
+cCreateUniversalBinary /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt normal "armv6 armv7"
+cGenerateDSYMFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app.dSYM /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt
+cCopyStringsFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib
+cCompileXIB /Users/Q/Desktop/lockIt/Classes/DetailLockView.xib
+cCompileXIB /Users/Q/Desktop/lockIt/LockButtonCell.xib
+cCompileXIB /Users/Q/Desktop/lockIt/LockSliderCell.xib
+cCompileXIB /Users/Q/Desktop/lockIt/LockSliderProgress.xib
+cCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Bonjour.png Bonjour.png
+cCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure1.png secure1.png
+cCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure2.png secure2.png
+cCompileXIB /Users/Q/Desktop/lockIt/RootViewLockedCell.xib
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004CCEA8020000000000000110
+t1288611842
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A524A00000000002CE430
+t1280987722
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A517D00000000000004CF
+t1280987517
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004C5A527F0000000000002AD2
+t1280987775
+s10962
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h
+c000000004C5A527F0000000000000C73
+t1280987775
+s3187
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004C5790370000000000002407
+t1280806967
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Users/Q/Desktop/lockIt/AsyncSocket.h
+c0000000049E3BBDF00000000000042A9
+t1239661535
+s17065
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/Bonjour.png
+c000000004CDAC92C0000000000005696
+t1289406764
+s22166
+
+N/Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m
+c000000004CA6D841000000000001567A
+t1286002753
+s87674
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Desktop/lockIt/Classes/../DDData.m
+c0000000049E23C5200000000000010BC
+t1239563346
+s4284
+i"DDData.h"
+i<CommonCrypto/CommonDigest.h>
+i"SSCrypto.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../DDNumber.m
+c0000000049E23C520000000000000504
+t1239563346
+s1284
+i"DDNumber.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../DDRange.m
+c0000000049E23C5200000000000006CD
+t1239563346
+s1741
+i"DDRange.h"
+i"DDNumber.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../DataModel.h
+c000000004CFFF2C80000000000000369
+t1291842248
+s873
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m
+c0000000049E23C52000000000000196B
+t1239563346
+s6507
+i"HTTPAuthenticationRequest.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.h
+c0000000049ED38860000000000000686
+t1240283270
+s1670
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m
+c0000000049ED3862000000000000C7F0
+t1240283234
+s51184
+i"AsyncSocket.h"
+i"HTTPServer.h"
+i"HTTPConnection.h"
+i"HTTPResponse.h"
+i"HTTPAuthenticationRequest.h"
+i"DDNumber.h"
+i"DDRange.h"
+i"DDData.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m
+c000000004CA6D9D10000000000000781
+t1286003153
+s1921
+i"HTTPResponse.h"
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPServer.h
+c000000004CA6D9B40000000000000463
+t1286003124
+s1123
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/Classes/../HTTPServer.m
+c0000000049E23C5200000000000024BB
+t1239563346
+s9403
+i"AsyncSocket.h"
+i"HTTPServer.h"
+i"HTTPConnection.h"
+
+N/Users/Q/Desktop/lockIt/Classes/DetailLockView.h
+c000000004CF695C30000000000000851
+t1291228611
+s2129
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+
+N/Users/Q/Desktop/lockIt/Classes/DetailLockView.m
+c000000004CFFF6970000000000003033
+t1291843223
+s12339
+i"DetailLockView.h"
+
+N/Users/Q/Desktop/lockIt/Classes/DetailLockView.xib
+c000000004CCD98930000000000001C75
+t1288542355
+s7285
+
+N/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.h
+c000000004CFBDC290000000000000274
+t1291574313
+s628
+i<Foundation/Foundation.h>
+i"HTTPConnection.h"
+
+N/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m
+c000000004CFFEE7B00000000000022F2
+t1291841147
+s8946
+i"LockItHTTPConnection.h"
+i"HTTPServer.h"
+i"HTTPResponse.h"
+i"AsyncSocket.h"
+i"RootView.h"
+
+N/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.h
+c000000004CFBDC28000000000000011B
+t1291574312
+s283
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m
+c000000004CFBDC2900000000000003BE
+t1291574313
+s958
+i"LockItServerSetup.h"
+i"HTTPServer.h"
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Desktop/lockIt/Classes/NetworkService.h
+c000000004CFBE87600000000000002BF
+t1291577462
+s703
+i<Foundation/Foundation.h>
+i"RootView.h"
+
+N/Users/Q/Desktop/lockIt/Classes/NetworkService.m
+c000000004CFECCD800000000000013E5
+t1291767000
+s5093
+i"NetworkService.h"
+
+N/Users/Q/Desktop/lockIt/Classes/RootView.h
+c000000004CFFF4E500000000000002EB
+t1291842789
+s747
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+
+N/Users/Q/Desktop/lockIt/Classes/RootView.m
+c000000004CFFF6090000000000001C27
+t1291843081
+s7207
+i"RootView.h"
+i"DetailLockView.h"
+
+N/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.h
+c000000004CFBDC2600000000000002B9
+t1291574310
+s697
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+i"RootView.h"
+i"DataModel.h"
+
+N/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m
+c000000004CFFE7B400000000000006E1
+t1291839412
+s1761
+i"lockItAppDelegate.h"
+i"HTTPServer.h"
+i"LockItHTTPConnection.h"
+i"NetworkService.h"
+i"RootView.h"
+i"DataModel.h"
+
+N/Users/Q/Desktop/lockIt/DDData.h
+c0000000049E23C5200000000000000CD
+t1239563346
+s205
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/DDNumber.h
+c0000000049E23C520000000000000155
+t1239563346
+s341
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/DDRange.h
+c0000000049E23C5200000000000005E5
+t1239563346
+s1509
+i<Foundation/NSValue.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/Q/Desktop/lockIt/DataModel.h
+c000000004CFFF2C80000000000000369
+t1291842248
+s873
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Q/Desktop/lockIt/DataModel.m
+c000000004CFFF3ED00000000000013F5
+t1291842541
+s5109
+i"DataModel.h"
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Desktop/lockIt/HTTPAuthenticationRequest.h
+c0000000049E23C5200000000000002E4
+t1239563346
+s740
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Desktop/lockIt/HTTPConnection.h
+c0000000049ED38860000000000000686
+t1240283270
+s1670
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Desktop/lockIt/HTTPResponse.h
+c0000000049E23C52000000000000026E
+t1239563346
+s622
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/HTTPServer.h
+c000000004CA6D9B40000000000000463
+t1286003124
+s1123
+i<Foundation/Foundation.h>
+
+N/Users/Q/Desktop/lockIt/LockButtonCell.xib
+c000000004CCDFB6C00000000000029E8
+t1288567660
+s10728
+
+N/Users/Q/Desktop/lockIt/LockSliderCell.xib
+c000000004CD52DDE000000000000323F
+t1289039326
+s12863
+
+N/Users/Q/Desktop/lockIt/LockSliderProgress.xib
+c000000004CD5420B00000000000031BB
+t1289044491
+s12731
+
+N/Users/Q/Desktop/lockIt/RootViewLockedCell.xib
+c000000004CDB03740000000000001116
+t1289421684
+s4374
+
+N/Users/Q/Desktop/lockIt/RootViewLockedWithTimerCell.xib
+c000000004CDB03870000000000001116
+t1289421703
+s4374
+
+N/Users/Q/Desktop/lockIt/RootViewUnlockedCell.xib
+c000000004CDB03AA0000000000001116
+t1289421738
+s4374
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app.dSYM
+t1291843255
+s102
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Bonjour.png
+t1291843257
+s20740
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/DetailLockView.nib
+t1291843256
+s1516
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Info.plist
+t1291843247
+s719
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockButtonCell.nib
+t1291843257
+s3428
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockSliderCell.nib
+t1291843257
+s3732
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockSliderProgress.nib
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/PkgInfo
+t1291843247
+s8
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/RootViewLockedCell.nib
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/RootViewLockedWithTimerCell.nib
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/RootViewUnlockedCell.nib
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/InfoPlist.strings
+t1291843256
+s118
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/MainWindow.nib
+t1291843256
+s1530
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt
+t1291843255
+s360656
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure1.png
+t1291843257
+s3747
+
+N/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure2.png
+t1291843257
+s26565
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/AsyncSocket.o
+t1291843250
+s129948
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDData.o
+t1291843249
+s11980
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDNumber.o
+t1291843249
+s8912
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDRange.o
+t1291843249
+s11640
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DataModel.o
+t1291843251
+s20508
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DetailLockView.o
+t1291843251
+s85132
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPAuthenticationRequest.o
+t1291843249
+s18976
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPConnection.o
+t1291843250
+s62196
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPResponse.o
+t1291843250
+s16160
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPServer.o
+t1291843250
+s29720
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItHTTPConnection.o
+t1291843251
+s31016
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItServerSetup.o
+t1291843250
+s12676
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/NetworkService.o
+t1291843251
+s61356
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/RootView.o
+t1291843251
+s69824
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt
+t1291843252
+s176992
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt.LinkFileList
+c000000004CFFF6AF00000000000006D4
+t1291843247
+s1748
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockItAppDelegate.o
+t1291843248
+s55632
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/main.o
+t1291843248
+s6416
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/AsyncSocket.o
+t1291843253
+s127744
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDData.o
+t1291843253
+s11856
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDNumber.o
+t1291843253
+s8896
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDRange.o
+t1291843253
+s11544
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DataModel.o
+t1291843255
+s20400
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DetailLockView.o
+t1291843255
+s85212
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPAuthenticationRequest.o
+t1291843253
+s18988
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPConnection.o
+t1291843254
+s62008
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPResponse.o
+t1291843253
+s16108
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPServer.o
+t1291843254
+s29416
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItHTTPConnection.o
+t1291843254
+s30772
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItServerSetup.o
+t1291843254
+s12664
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/NetworkService.o
+t1291843254
+s61296
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/RootView.o
+t1291843255
+s69600
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt
+t1291843255
+s176336
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt.LinkFileList
+c000000004CFFF6AF00000000000006D4
+t1291843247
+s1748
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockItAppDelegate.o
+t1291843252
+s55632
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/main.o
+t1291843251
+s6396
+
+N/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/Q/Desktop/lockIt/en.lproj/InfoPlist.strings
+c000000004CFBDC2F0000000000000062
+t1291574319
+s98
+
+N/Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib
+c000000004CB75CC100000000000048F9
+t1287085249
+s18681
+
+N/Users/Q/Desktop/lockIt/lockIt_Prefix.pch
+c000000004CB7348E000000000000013F
+t1287074958
+s319
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<Availability.h>
+
+N/Users/Q/Desktop/lockIt/main.m
+c000000004CFBDEB1000000000000015D
+t1291574961
+s349
+i<UIKit/UIKit.h>
+
+N/Users/Q/Desktop/lockIt/secure1.png
+c000000004CDACFB70000000000000C41
+t1289408439
+s3137
+
+N/Users/Q/Desktop/lockIt/secure2.png
+c000000004CDACFC8000000000000595D
+t1289408456
+s22877
+
+N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch.gch
+t1291843248
+s9676336
+
+N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch.gch
+t1291843248
+s10130992
+
+NlockIt-Info.plist
+c000000004CD87EC500000000000003DC
+t1289256645
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313536047#313536047#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536048.851279
+e313536050.803738
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/AsyncSocket.o
+x/Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m313536048#313536050#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m8595483424#1625"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/AsyncSocket.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDData.o /Users/Q/Desktop/lockIt/Classes/../DDData.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536048.927908
+e313536049.101378
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDData.o
+x/Users/Q/Desktop/lockIt/Classes/../DDData.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Q/Desktop/lockIt/Classes/../DDData.m313536048#313536049#0(0"0(0#0#43"/Users/Q/Desktop/lockIt/Classes/../DDData.m8606408192#1615"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDData.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDData.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDNumber.o /Users/Q/Desktop/lockIt/Classes/../DDNumber.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536049.101497
+e313536049.196198
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDNumber.o
+x/Users/Q/Desktop/lockIt/Classes/../DDNumber.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Q/Desktop/lockIt/Classes/../DDNumber.m313536049#313536049#0(0"0(0#0#45"/Users/Q/Desktop/lockIt/Classes/../DDNumber.m8595613952#1619"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDNumber.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDNumber.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDRange.o /Users/Q/Desktop/lockIt/Classes/../DDRange.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536049.196319
+e313536049.331648
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDRange.o
+x/Users/Q/Desktop/lockIt/Classes/../DDRange.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Q/Desktop/lockIt/Classes/../DDRange.m313536049#313536049#0(0"0(0#0#44"/Users/Q/Desktop/lockIt/Classes/../DDRange.m8602973568#1617"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDRange.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DDRange.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DataModel.o /Users/Q/Desktop/lockIt/DataModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536051.505114
+e313536051.762064
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DataModel.o
+x/Users/Q/Desktop/lockIt/DataModel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Q/Desktop/lockIt/DataModel.m313536051#313536051#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/DataModel.m8605889664#1610"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/DataModel.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DataModel.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DetailLockView.o /Users/Q/Desktop/lockIt/Classes/DetailLockView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536051.172242
+e313536051.809241
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DetailLockView.o
+x/Users/Q/Desktop/lockIt/Classes/DetailLockView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/DetailLockView.m313536051#313536051#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/DetailLockView.m8603315936#1628"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/DetailLockView.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/DetailLockView.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPAuthenticationRequest.o /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536049.331773
+e313536049.526548
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPAuthenticationRequest.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m313536049#313536049#0(0"0(0#0#62"/Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m8603072160#1653"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPAuthenticationRequest.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPConnection.o /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536049.526675
+e313536050.290852
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPConnection.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m313536049#313536050#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m8605128736#1631"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPConnection.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPResponse.o /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536050.290976
+e313536050.450520
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPResponse.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m313536050#313536050#0(0"0(0#0#49"/Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m8597769312#1627"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPResponse.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPServer.o /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536050.450855
+e313536050.741887
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPServer.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPServer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m313536050#313536050#0(0"0(0#0#47"/Users/Q/Desktop/lockIt/Classes/../HTTPServer.m8595402528#1623"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/HTTPServer.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItHTTPConnection.o /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536050.742006
+e313536051.101059
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItHTTPConnection.o
+x/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m313536050#313536051#0(0"0(0#0#54"/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m8605014272#1640"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItHTTPConnection.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItServerSetup.o /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536050.803878
+e313536050.915641
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItServerSetup.o
+x/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m313536050#313536050#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m8605847296#1634"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/LockItServerSetup.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/NetworkService.o /Users/Q/Desktop/lockIt/Classes/NetworkService.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536050.915762
+e313536051.172115
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/NetworkService.o
+x/Users/Q/Desktop/lockIt/Classes/NetworkService.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/NetworkService.m313536050#313536051#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/NetworkService.m8604835584#1628"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/NetworkService.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/NetworkService.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/RootView.o /Users/Q/Desktop/lockIt/Classes/RootView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536051.101177
+e313536051.504954
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/RootView.o
+x/Users/Q/Desktop/lockIt/Classes/RootView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Q/Desktop/lockIt/Classes/RootView.m313536051#313536051#0(0"0(0#0#42"/Users/Q/Desktop/lockIt/Classes/RootView.m8605190464#1616"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/RootView.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/RootView.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockItAppDelegate.o /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536048.681637
+e313536048.927655
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockItAppDelegate.o
+x/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m313536048#313536048#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m8605112128#1634"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockItAppDelegate.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/main.o /Users/Q/Desktop/lockIt/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536048.680418
+e313536048.851156
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/main.o
+x/Users/Q/Desktop/lockIt/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Q/Desktop/lockIt/main.m313536048#313536048#0(0"0(0#0#30"/Users/Q/Desktop/lockIt/main.m8605463520#1600"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/main.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536052.002690
+e313536053.811392
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/AsyncSocket.o
+x/Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m313536052#313536053#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m8606940992#1625"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/AsyncSocket.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDData.o /Users/Q/Desktop/lockIt/Classes/../DDData.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.037783
+e313536053.199606
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDData.o
+x/Users/Q/Desktop/lockIt/Classes/../DDData.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Q/Desktop/lockIt/Classes/../DDData.m313536053#313536053#0(0"0(0#0#43"/Users/Q/Desktop/lockIt/Classes/../DDData.m8606498336#1615"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDData.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDData.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDNumber.o /Users/Q/Desktop/lockIt/Classes/../DDNumber.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.199730
+e313536053.290093
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDNumber.o
+x/Users/Q/Desktop/lockIt/Classes/../DDNumber.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Q/Desktop/lockIt/Classes/../DDNumber.m313536053#313536053#0(0"0(0#0#45"/Users/Q/Desktop/lockIt/Classes/../DDNumber.m8604864064#1619"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDNumber.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDNumber.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDRange.o /Users/Q/Desktop/lockIt/Classes/../DDRange.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.290217
+e313536053.409797
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDRange.o
+x/Users/Q/Desktop/lockIt/Classes/../DDRange.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Q/Desktop/lockIt/Classes/../DDRange.m313536053#313536053#0(0"0(0#0#44"/Users/Q/Desktop/lockIt/Classes/../DDRange.m8602734784#1617"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../DDRange.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DDRange.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DataModel.o /Users/Q/Desktop/lockIt/DataModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536055.061502
+e313536055.309887
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DataModel.o
+x/Users/Q/Desktop/lockIt/DataModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Q/Desktop/lockIt/DataModel.m313536055#313536055#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/DataModel.m8605517376#1610"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/DataModel.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DataModel.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DetailLockView.o /Users/Q/Desktop/lockIt/Classes/DetailLockView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536054.827094
+e313536055.433321
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DetailLockView.o
+x/Users/Q/Desktop/lockIt/Classes/DetailLockView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/DetailLockView.m313536054#313536055#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/DetailLockView.m8596676672#1628"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/DetailLockView.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/DetailLockView.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPAuthenticationRequest.o /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.409922
+e313536053.602957
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPAuthenticationRequest.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m313536053#313536053#0(0"0(0#0#62"/Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m8605148256#1653"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPAuthenticationRequest.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPConnection.o /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.603192
+e313536054.429089
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPConnection.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m313536053#313536054#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m8596080128#1631"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPConnection.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPResponse.o /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.811517
+e313536053.990783
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPResponse.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m313536053#313536053#0(0"0(0#0#49"/Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m8605585824#1627"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPResponse.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPServer.o /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536053.990901
+e313536054.281785
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPServer.o
+x/Users/Q/Desktop/lockIt/Classes/../HTTPServer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m313536053#313536054#0(0"0(0#0#47"/Users/Q/Desktop/lockIt/Classes/../HTTPServer.m8596626144#1623"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/HTTPServer.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItHTTPConnection.o /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536054.281904
+e313536054.648717
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItHTTPConnection.o
+x/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m313536054#313536054#0(0"0(0#0#54"/Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m8590579616#1640"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItHTTPConnection.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItServerSetup.o /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536054.429206
+e313536054.546553
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItServerSetup.o
+x/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m313536054#313536054#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m8606124928#1634"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/LockItServerSetup.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/NetworkService.o /Users/Q/Desktop/lockIt/Classes/NetworkService.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536054.546672
+e313536054.826970
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/NetworkService.o
+x/Users/Q/Desktop/lockIt/Classes/NetworkService.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Q/Desktop/lockIt/Classes/NetworkService.m313536054#313536054#0(0"0(0#0#48"/Users/Q/Desktop/lockIt/Classes/NetworkService.m8604740704#1628"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/NetworkService.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/NetworkService.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/RootView.o /Users/Q/Desktop/lockIt/Classes/RootView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536054.648839
+e313536055.061379
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/RootView.o
+x/Users/Q/Desktop/lockIt/Classes/RootView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Q/Desktop/lockIt/Classes/RootView.m313536054#313536055#0(0"0(0#0#42"/Users/Q/Desktop/lockIt/Classes/RootView.m8605489792#1616"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/RootView.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/RootView.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockItAppDelegate.o /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536051.849927
+e313536052.002421
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockItAppDelegate.o
+x/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m313536051#313536052#0(0"0(0#0#51"/Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m8606295008#1634"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockItAppDelegate.o0#
+
+CCompileC build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/main.o /Users/Q/Desktop/lockIt/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536051.762191
+e313536051.849805
+r1
+xCompileC
+xbuild/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/main.o
+x/Users/Q/Desktop/lockIt/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Compile /Users/Q/Desktop/lockIt/main.m313536051#313536051#0(0"0(0#0#30"/Users/Q/Desktop/lockIt/main.m8595777248#1600"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch -c /Users/Q/Desktop/lockIt/main.m -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/Q/Desktop/lockIt/Classes/DetailLockView.xib
+s313536056.045897
+e313536056.602142
+r1
+xCompileXIB
+x/Users/Q/Desktop/lockIt/Classes/DetailLockView.xib
+lSLF07#2@37"CompileXIB Classes/DetailLockView.xib313536056#313536056#0(0"0(0#0#50"/Users/Q/Desktop/lockIt/Classes/DetailLockView.xib8603150144#514"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/DetailLockView.nib /Users/Q/Desktop/lockIt/Classes/DetailLockView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/Q/Desktop/lockIt/LockButtonCell.xib
+s313536056.490804
+e313536057.140146
+r1
+xCompileXIB
+x/Users/Q/Desktop/lockIt/LockButtonCell.xib
+lSLF07#2@29"CompileXIB LockButtonCell.xib313536056#313536057#0(0"0(0#0#42"/Users/Q/Desktop/lockIt/LockButtonCell.xib8606541760#506"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockButtonCell.nib /Users/Q/Desktop/lockIt/LockButtonCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/Q/Desktop/lockIt/LockSliderCell.xib
+s313536056.602250
+e313536057.159940
+r1
+xCompileXIB
+x/Users/Q/Desktop/lockIt/LockSliderCell.xib
+lSLF07#2@29"CompileXIB LockSliderCell.xib313536056#313536057#0(0"0(0#0#42"/Users/Q/Desktop/lockIt/LockSliderCell.xib8590367232#506"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockSliderCell.nib /Users/Q/Desktop/lockIt/LockSliderCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/Q/Desktop/lockIt/LockSliderProgress.xib
+s313536057.140379
+e313536057.709003
+r0
+xCompileXIB
+x/Users/Q/Desktop/lockIt/LockSliderProgress.xib
+lSLF07#2@33"CompileXIB LockSliderProgress.xib313536057#313536057#0(0"0(0#0#46"/Users/Q/Desktop/lockIt/LockSliderProgress.xib8606767488#514"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/LockSliderProgress.nib /Users/Q/Desktop/lockIt/LockSliderProgress.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/Q/Desktop/lockIt/RootViewLockedCell.xib
+s313536057.595563
+e313536057.708503
+r0
+xCompileXIB
+x/Users/Q/Desktop/lockIt/RootViewLockedCell.xib
+lSLF07#2@33"CompileXIB RootViewLockedCell.xib313536057#313536057#0(0"0(0#0#46"/Users/Q/Desktop/lockIt/RootViewLockedCell.xib8606229664#514"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/RootViewLockedCell.nib /Users/Q/Desktop/lockIt/RootViewLockedCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk2#
+
+CCompileXIB /Users/Q/Desktop/lockIt/RootViewLockedWithTimerCell.xib
+r0
+
+CCompileXIB /Users/Q/Desktop/lockIt/RootViewUnlockedCell.xib
+r0
+
+CCompileXIB /Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib
+s313536055.895266
+e313536056.490675
+r1
+xCompileXIB
+x/Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib313536055#313536056#0(0"0(0#0#47"/Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib8603226080#516"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/MainWindow.nib /Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Bonjour.png Bonjour.png
+s313536057.160059
+e313536057.455119
+r1
+xCopyPNGFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Bonjour.png
+xBonjour.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/lockIt.app/Bonjour.png Bonjour.png313536057#313536057#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/Bonjour.png8606544640#518"    cd /Users/Q/Desktop/lockIt    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Q/Desktop/lockIt/Bonjour.png /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Bonjour.png0#
+
+CCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure1.png secure1.png
+s313536057.455239
+e313536057.503649
+r1
+xCopyPNGFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure1.png
+xsecure1.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/lockIt.app/secure1.png secure1.png313536057#313536057#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/secure1.png8606399872#518"    cd /Users/Q/Desktop/lockIt    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Q/Desktop/lockIt/secure1.png /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure1.png0#
+
+CCopyPNGFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure2.png secure2.png
+s313536057.503952
+e313536057.595450
+r1
+xCopyPNGFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure2.png
+xsecure2.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/lockIt.app/secure2.png secure2.png313536057#313536057#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/secure2.png8606278112#518"    cd /Users/Q/Desktop/lockIt    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Q/Desktop/lockIt/secure2.png /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/secure2.png0#
+
+CCopyStringsFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s313536055.894331
+e313536056.045791
+r1
+xCopyStringsFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings313536055#313536056#0(0"0(0#0#50"/Users/Q/Desktop/lockIt/en.lproj/InfoPlist.strings8606856032#440"    cd /Users/Q/Desktop/lockIt    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/en.lproj0#
+
+CCreateUniversalBinary /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt normal "armv6 armv7"
+s313536055.649741
+e313536055.664783
+r1
+xCreateUniversalBinary
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Release-iphoneos/lockIt.app/lockIt normal "armv6 armv7"313536055#313536055#0(0"0(0#0#35"/Users/Q/Desktop/lockIt/armv6 armv78606495520#456"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt -output /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt0#
+
+CGenerateDSYMFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app.dSYM /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt
+s313536055.664929
+e313536055.894206
+r1
+xGenerateDSYMFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app.dSYM
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt
+lSLF07#2@96"GenerateDSYMFile build/Release-iphoneos/lockIt.app.dSYM build/Release-iphoneos/lockIt.app/lockIt313536055#313536055#0(0"0(0#0#64"/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt8605261024#318"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/lockIt -o /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app.dSYM0#
+
+CLd /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt normal armv6
+s313536051.809362
+e313536053.037622
+r1
+xLd
+x/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt
+xnormal
+xarmv6
+lSLF07#2@105"Link /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt313536051#313536053#0(0"0(0#0#0"8595781184#807"    cd /Users/Q/Desktop/lockIt    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/Q/Desktop/lockIt/build/Release-iphoneos -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -filelist /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework UIKit -framework Foundation -framework CoreGraphics -framework CFNetwork -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv6/lockIt0#
+
+CLd /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt normal armv7
+s313536055.433432
+e313536055.649621
+r1
+xLd
+x/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt
+xnormal
+xarmv7
+lSLF07#2@105"Link /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt313536055#313536055#0(0"0(0#0#0"8604919072#807"    cd /Users/Q/Desktop/lockIt    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/Q/Desktop/lockIt/build/Release-iphoneos -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -filelist /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework UIKit -framework Foundation -framework CoreGraphics -framework CFNetwork -o /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/Objects-normal/armv7/lockIt0#
+
+CProcessInfoPlistFile /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Info.plist lockIt-Info.plist
+s313536047.377500
+e313536047.442041
+r1
+xProcessInfoPlistFile
+x/Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Info.plist
+xlockIt-Info.plist
+lSLF07#2@25"Process lockIt-Info.plist313536047#313536047#0(0"0(0#0#41"/Users/Q/Desktop/lockIt/lockIt-Info.plist27303270317031496#407"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lockIt-Info.plist -genpkginfo /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app/Info.plist0#
+
+CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch.gch lockIt_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313536047.442235
+e313536048.615086
+r1
+xProcessPCH
+x/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch.gch
+xlockIt_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile lockIt_Prefix.pch313536047#313536048#0(0"0(0#0#41"/Users/Q/Desktop/lockIt/lockIt_Prefix.pch8603049536#1512"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv6 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Q/Desktop/lockIt/lockIt_Prefix.pch -o /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ckyosromluyzxvhekmyltrsjayaw/lockIt_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch.gch lockIt_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313536047.443658
+e313536048.680287
+r1
+xProcessPCH
+x/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch.gch
+xlockIt_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile lockIt_Prefix.pch313536047#313536048#0(0"0(0#0#41"/Users/Q/Desktop/lockIt/lockIt_Prefix.pch8590382592#1512"    cd /Users/Q/Desktop/lockIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-generated-files.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-own-target-headers.hmap -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-all-target-headers.hmap -iquote /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/lockIt-project-headers.hmap -F/Users/Q/Desktop/lockIt/build/Release-iphoneos -I/Users/Q/Desktop/lockIt/build/Release-iphoneos/include -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources/armv7 -I/Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphoneos/lockIt.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Q/Desktop/lockIt/lockIt_Prefix.pch -o /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-goleiuukpcmqpxfljzcnmeoynksw/lockIt_Prefix.pch.gch0#
+
+CTouch /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app
+r0
+
+CValidate /Users/Q/Desktop/lockIt/build/Release-iphoneos/lockIt.app
+r0
+
