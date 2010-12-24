@@ -22,11 +22,12 @@
 	
 	NSString *command = [path substringFromIndex:1];
     NSArray *listItems = [path componentsSeparatedByString:@"/"];
-    NSString *uuid = [listItems objectAtIndex:2];
+    NSString *uuid = [listItems objectAtIndex:1];
     
-    self.commandString = command;
+    self.commandString = [listItems objectAtIndex:2];
     
-	NSLog(@"Command: %@",command);
+	NSLog(@"Command: %@",self.commandString);
+    NSLog(@"UUID: %@",uuid);
 	
     NSMutableDictionary *dict = [NSMutableDictionary dictionaryWithObject:command 
 																   forKey:@"command"];
