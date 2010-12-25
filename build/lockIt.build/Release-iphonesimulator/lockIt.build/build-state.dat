@@ -1166,6 +1166,460 @@ c000000004CDACFC8000000000000595D
 t1289408456
 s22877
 
+N/Users/Q/Sites/Lockit/AsyncSocket.h
+c0000000049E3BBDF00000000000042A9
+t1239661535
+s17065
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/Bonjour.png
+c000000004CDAC92C0000000000005696
+t1289406764
+s22166
+
+N/Users/Q/Sites/Lockit/Classes/../AsyncSocket.m
+c000000004CA6D841000000000001567A
+t1286002753
+s87674
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Sites/Lockit/Classes/../DDData.m
+c0000000049E23C5200000000000010BC
+t1239563346
+s4284
+i"DDData.h"
+i<CommonCrypto/CommonDigest.h>
+i"SSCrypto.h"
+
+N/Users/Q/Sites/Lockit/Classes/../DDNumber.m
+c0000000049E23C520000000000000504
+t1239563346
+s1284
+i"DDNumber.h"
+
+N/Users/Q/Sites/Lockit/Classes/../DDRange.m
+c0000000049E23C5200000000000006CD
+t1239563346
+s1741
+i"DDRange.h"
+i"DDNumber.h"
+
+N/Users/Q/Sites/Lockit/Classes/../DataModel.h
+c000000004D0650E300000000000003AD
+t1292259555
+s941
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPAuthenticationRequest.m
+c0000000049E23C52000000000000196B
+t1239563346
+s6507
+i"HTTPAuthenticationRequest.h"
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPConnection.h
+c0000000049ED38860000000000000686
+t1240283270
+s1670
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPConnection.m
+c0000000049ED3862000000000000C7F0
+t1240283234
+s51184
+i"AsyncSocket.h"
+i"HTTPServer.h"
+i"HTTPConnection.h"
+i"HTTPResponse.h"
+i"HTTPAuthenticationRequest.h"
+i"DDNumber.h"
+i"DDRange.h"
+i"DDData.h"
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPResponse.m
+c000000004CA6D9D10000000000000781
+t1286003153
+s1921
+i"HTTPResponse.h"
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPServer.h
+c000000004CA6D9B40000000000000463
+t1286003124
+s1123
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/Classes/../HTTPServer.m
+c0000000049E23C5200000000000024BB
+t1239563346
+s9403
+i"AsyncSocket.h"
+i"HTTPServer.h"
+i"HTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/Classes/DetailLockView.h
+c000000004D065AB40000000000000862
+t1292262068
+s2146
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+
+N/Users/Q/Sites/Lockit/Classes/DetailLockView.m
+c000000004D077CC400000000000031E4
+t1292336324
+s12772
+i"DetailLockView.h"
+
+N/Users/Q/Sites/Lockit/Classes/DetailLockView.xib
+c000000004CCD98930000000000001C75
+t1288542355
+s7285
+
+N/Users/Q/Sites/Lockit/Classes/LockItHTTPConnection.h
+c000000004CFBDC290000000000000274
+t1291574313
+s628
+i<Foundation/Foundation.h>
+i"HTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/Classes/LockItHTTPConnection.m
+c000000004D13D4D00000000000002257
+t1293145296
+s8791
+i"LockItHTTPConnection.h"
+i"HTTPServer.h"
+i"HTTPResponse.h"
+i"AsyncSocket.h"
+i"RootView.h"
+
+N/Users/Q/Sites/Lockit/Classes/LockItServerSetup.h
+c000000004CFBDC28000000000000011B
+t1291574312
+s283
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/Classes/LockItServerSetup.m
+c000000004CFBDC2900000000000003BE
+t1291574313
+s958
+i"LockItServerSetup.h"
+i"HTTPServer.h"
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/Classes/NetworkService.h
+c000000004CFBE87600000000000002BF
+t1291577462
+s703
+i<Foundation/Foundation.h>
+i"RootView.h"
+
+N/Users/Q/Sites/Lockit/Classes/NetworkService.m
+c000000004D07733E00000000000013E9
+t1292333886
+s5097
+i"NetworkService.h"
+
+N/Users/Q/Sites/Lockit/Classes/RootView.h
+c000000004D06574A00000000000002EA
+t1292261194
+s746
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+
+N/Users/Q/Sites/Lockit/Classes/RootView.m
+c000000004D0659D40000000000001C8F
+t1292261844
+s7311
+i"RootView.h"
+i"DetailLockView.h"
+
+N/Users/Q/Sites/Lockit/Classes/lockItAppDelegate.h
+c000000004CFBDC2600000000000002B9
+t1291574310
+s697
+i<UIKit/UIKit.h>
+i"NetworkService.h"
+i"RootView.h"
+i"DataModel.h"
+
+N/Users/Q/Sites/Lockit/Classes/lockItAppDelegate.m
+c000000004D06577900000000000006DF
+t1292261241
+s1759
+i"lockItAppDelegate.h"
+i"HTTPServer.h"
+i"LockItHTTPConnection.h"
+i"NetworkService.h"
+i"RootView.h"
+i"DataModel.h"
+
+N/Users/Q/Sites/Lockit/DDData.h
+c0000000049E23C5200000000000000CD
+t1239563346
+s205
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/DDNumber.h
+c0000000049E23C520000000000000155
+t1239563346
+s341
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/DDRange.h
+c0000000049E23C5200000000000005E5
+t1239563346
+s1509
+i<Foundation/NSValue.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/Q/Sites/Lockit/DataModel.h
+c000000004D0650E300000000000003AD
+t1292259555
+s941
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/DataModel.m
+c000000004D0650F8000000000000143B
+t1292259576
+s5179
+i"DataModel.h"
+i"LockItHTTPConnection.h"
+
+N/Users/Q/Sites/Lockit/HTTPAuthenticationRequest.h
+c0000000049E23C5200000000000002E4
+t1239563346
+s740
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Sites/Lockit/HTTPConnection.h
+c0000000049ED38860000000000000686
+t1240283270
+s1670
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Q/Sites/Lockit/HTTPResponse.h
+c0000000049E23C52000000000000026E
+t1239563346
+s622
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/HTTPServer.h
+c000000004CA6D9B40000000000000463
+t1286003124
+s1123
+i<Foundation/Foundation.h>
+
+N/Users/Q/Sites/Lockit/LockButtonCell.xib
+c000000004CCDFB6C00000000000029E8
+t1288567660
+s10728
+
+N/Users/Q/Sites/Lockit/LockIt_Prefix.pch
+c000000004CB7348E000000000000013F
+t1287074958
+s319
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<Availability.h>
+
+N/Users/Q/Sites/Lockit/LockSliderCell.xib
+c000000004CD52DDE000000000000323F
+t1289039326
+s12863
+
+N/Users/Q/Sites/Lockit/LockSliderProgress.xib
+c000000004CD5420B00000000000031BB
+t1289044491
+s12731
+
+N/Users/Q/Sites/Lockit/RootViewLockedCell.xib
+c000000004CDB03740000000000001116
+t1289421684
+s4374
+
+N/Users/Q/Sites/Lockit/RootViewLockedWithTimerCell.xib
+c000000004CDB03870000000000001116
+t1289421703
+s4374
+
+N/Users/Q/Sites/Lockit/RootViewUnlockedCell.xib
+c000000004CDB03AA0000000000001116
+t1289421738
+s4374
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app
+t1291843947
+s544
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app.dSYM
+t1291843947
+s102
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/Bonjour.png
+t1291843264
+s22166
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/DetailLockView.nib
+t1291843263
+s1516
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/Info.plist
+t1291843258
+s644
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockButtonCell.nib
+t1291843264
+s3428
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockIt
+t1291843947
+s204748
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockSliderCell.nib
+t1291843264
+s3732
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockSliderProgress.nib
+t1291843264
+s3495
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/PkgInfo
+t1291843258
+s8
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/RootViewLockedCell.nib
+t1291843264
+s614
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/RootViewLockedWithTimerCell.nib
+t1291843265
+s614
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/RootViewUnlockedCell.nib
+t1291843265
+s614
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/en.lproj/InfoPlist.strings
+t1291843263
+s118
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/en.lproj/MainWindow.nib
+t1291843263
+s1530
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/secure1.png
+t1291843264
+s3137
+
+N/Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/secure2.png
+t1291843264
+s22877
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/AsyncSocket.o
+t1291843261
+s145312
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDData.o
+t1291843260
+s12328
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDNumber.o
+t1291843260
+s8516
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDRange.o
+t1291843260
+s11212
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DataModel.o
+t1291843262
+s22120
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DetailLockView.o
+t1291843914
+s89824
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPAuthenticationRequest.o
+t1291843260
+s20276
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPConnection.o
+t1291843261
+s68484
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPResponse.o
+t1291843261
+s16584
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPServer.o
+t1291843261
+s31696
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockIt.LinkFileList
+c000000004CFFF8B60000000000000734
+t1291843766
+s1844
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItHTTPConnection.o
+t1291843946
+s32064
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItServerSetup.o
+t1291843261
+s12604
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/NetworkService.o
+t1291843262
+s62420
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/RootView.o
+t1291843914
+s71796
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/lockItAppDelegate.o
+t1291843259
+s55936
+
+N/Users/Q/Sites/Lockit/build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/main.o
+t1291843259
+s6260
+
+N/Users/Q/Sites/Lockit/en.lproj/InfoPlist.strings
+c000000004CFBDC2F0000000000000062
+t1291574319
+s98
+
+N/Users/Q/Sites/Lockit/en.lproj/MainWindow.xib
+c000000004CB75CC100000000000048F9
+t1287085249
+s18681
+
+N/Users/Q/Sites/Lockit/main.m
+c000000004CFBDEB1000000000000015D
+t1291574961
+s349
+i<UIKit/UIKit.h>
+
+N/Users/Q/Sites/Lockit/secure1.png
+c000000004CDACFB70000000000000C41
+t1289408439
+s3137
+
+N/Users/Q/Sites/Lockit/secure2.png
+c000000004CDACFC8000000000000595D
+t1289408456
+s22877
+
 N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-ecesnbhnokgiahbshhicnvaxaabb/LockIt_Prefix.pch.gch
 t1291843259
 s14920720
@@ -1173,6 +1627,10 @@ s14920720
 N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-fdxsgkutuuoynkcaqllnxgwdkkcg/LockIt_Prefix.pch.gch
 t1289255625
 s14920720
+
+N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-gixrbfizrcxbxvgowmmyotsncewl/LockIt_Prefix.pch.gch
+t2
+s0
 
 N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ecesnbhnokgiahbshhicnvaxaabb/lockIt_Prefix.pch.gch
 t1291843259
@@ -1273,49 +1731,97 @@ r0
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/AsyncSocket.o /Users/Q/Sites/Lockit/Classes/../AsyncSocket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDData.o /Users/Q/Desktop/lockIt/Classes/../DDData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDData.o /Users/Q/Sites/Lockit/Classes/../DDData.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDNumber.o /Users/Q/Desktop/lockIt/Classes/../DDNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDNumber.o /Users/Q/Sites/Lockit/Classes/../DDNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDRange.o /Users/Q/Desktop/lockIt/Classes/../DDRange.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DDRange.o /Users/Q/Sites/Lockit/Classes/../DDRange.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DataModel.o /Users/Q/Desktop/lockIt/DataModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DataModel.o /Users/Q/Sites/Lockit/DataModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DetailLockView.o /Users/Q/Desktop/lockIt/Classes/DetailLockView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/DetailLockView.o /Users/Q/Sites/Lockit/Classes/DetailLockView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPAuthenticationRequest.o /Users/Q/Desktop/lockIt/Classes/../HTTPAuthenticationRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPAuthenticationRequest.o /Users/Q/Sites/Lockit/Classes/../HTTPAuthenticationRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPConnection.o /Users/Q/Desktop/lockIt/Classes/../HTTPConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPConnection.o /Users/Q/Sites/Lockit/Classes/../HTTPConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPResponse.o /Users/Q/Desktop/lockIt/Classes/../HTTPResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPResponse.o /Users/Q/Sites/Lockit/Classes/../HTTPResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPServer.o /Users/Q/Desktop/lockIt/Classes/../HTTPServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/HTTPServer.o /Users/Q/Sites/Lockit/Classes/../HTTPServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItHTTPConnection.o /Users/Q/Desktop/lockIt/Classes/LockItHTTPConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItHTTPConnection.o /Users/Q/Sites/Lockit/Classes/LockItHTTPConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItServerSetup.o /Users/Q/Desktop/lockIt/Classes/LockItServerSetup.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/LockItServerSetup.o /Users/Q/Sites/Lockit/Classes/LockItServerSetup.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/NetworkService.o /Users/Q/Desktop/lockIt/Classes/NetworkService.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/NetworkService.o /Users/Q/Sites/Lockit/Classes/NetworkService.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/RootView.o /Users/Q/Desktop/lockIt/Classes/RootView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/RootView.o /Users/Q/Sites/Lockit/Classes/RootView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/lockItAppDelegate.o /Users/Q/Desktop/lockIt/Classes/lockItAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/lockItAppDelegate.o /Users/Q/Sites/Lockit/Classes/lockItAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/main.o /Users/Q/Desktop/lockIt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lockIt.build/Release-iphonesimulator/LockIt.build/Objects-normal/i386/main.o /Users/Q/Sites/Lockit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/lockIt.build/Release-iphonesimulator/lockIt.build/Objects-normal/i386/AsyncSocket.o /Users/Q/Desktop/lockIt/Classes/../AsyncSocket.m normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -1614,6 +2120,30 @@ xCompileXIB
 x/Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib
 lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib313536063#313536063#0(0"0(0#0#47"/Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib8597736224#544"    cd /Users/Q/Desktop/lockIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/en.lproj/MainWindow.nib /Users/Q/Desktop/lockIt/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
+CCompileXIB /Users/Q/Sites/Lockit/Classes/DetailLockView.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/LockButtonCell.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/LockSliderCell.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/LockSliderProgress.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/RootViewLockedCell.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/RootViewLockedWithTimerCell.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/RootViewUnlockedCell.xib
+r0
+
+CCompileXIB /Users/Q/Sites/Lockit/en.lproj/MainWindow.xib
+r0
+
 CCopyStringsFile /Users/Q/Desktop/LockIt/build/Release-iphonesimulator/LockIt.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
 r0
 
@@ -1628,6 +2158,9 @@ xCopyStringsFile
 x/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/en.lproj/InfoPlist.strings
 xen.lproj/InfoPlist.strings
 lSLF07#2@31"Copy en.lproj/InfoPlist.strings313536063#313536063#0(0"0(0#0#50"/Users/Q/Desktop/lockIt/en.lproj/InfoPlist.strings8603108928#454"    cd /Users/Q/Desktop/lockIt    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/en.lproj0#
+
+CCopyStringsFile /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
 
 CCpResource build/Release-iphonesimulator/LockIt.app/Bonjour.png Bonjour.png
 r0
@@ -1686,6 +2219,9 @@ x/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app.dSYM
 x/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/lockIt
 lSLF07#2@110"GenerateDSYMFile build/Release-iphonesimulator/lockIt.app.dSYM build/Release-iphonesimulator/lockIt.app/lockIt313536409#313536409#0(0"0(0#0#71"/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/lockIt8616415008#339"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/lockIt -o /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app.dSYM0#
 
+CGenerateDSYMFile /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app.dSYM /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockIt
+r0
+
 CLd /Users/Q/Desktop/LockIt/build/Release-iphonesimulator/LockIt.app/LockIt normal i386
 s313536746.949769
 e313536747.011685
@@ -1709,6 +2245,9 @@ xnormal
 xi386
 lSLF07#2@76"Link /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/lockIt313536409#313536409#0(0"0(0#0#0"8616345664#849"    cd /Users/Q/Desktop/lockIt    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Q/Desktop/lockIt/build/Release-iphonesimulator -F/Users/Q/Desktop/lockIt/build/Release-iphonesimulator -filelist /Users/Q/Desktop/lockIt/build/lockIt.build/Release-iphonesimulator/lockIt.build/Objects-normal/i386/lockIt.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -framework CFNetwork -o /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/lockIt0#
 
+CLd /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/LockIt normal i386
+r0
+
 CProcessInfoPlistFile /Users/Q/Desktop/LockIt/build/Release-iphonesimulator/LockIt.app/Info.plist LockIt-Info.plist
 r0
 
@@ -1724,10 +2263,16 @@ x/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/Info.plist
 xlockIt-Info.plist
 lSLF07#2@25"Process lockIt-Info.plist313536058#313536058#0(0"0(0#0#41"/Users/Q/Desktop/lockIt/lockIt-Info.plist8603272928#435"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lockIt-Info.plist -genpkginfo /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app/Info.plist0#
 
+CProcessInfoPlistFile /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app/Info.plist LockIt-Info.plist
+r0
+
 CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-ecesnbhnokgiahbshhicnvaxaabb/LockIt_Prefix.pch.gch LockIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-fdxsgkutuuoynkcaqllnxgwdkkcg/LockIt_Prefix.pch.gch LockIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/LockIt_Prefix-gixrbfizrcxbxvgowmmyotsncewl/LockIt_Prefix.pch.gch LockIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/lockIt_Prefix-ecesnbhnokgiahbshhicnvaxaabb/lockIt_Prefix.pch.gch lockIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -1761,4 +2306,7 @@ r1
 xTouch
 x/Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app
 lSLF07#2@70"Touch /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app313536409#313536409#0(0"0(0#0#0"8616252448#249"    cd /Users/Q/Desktop/lockIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Q/Desktop/lockIt/build/Release-iphonesimulator/lockIt.app0#
+
+CTouch /Users/Q/Sites/Lockit/build/Release-iphonesimulator/LockIt.app
+r0
 

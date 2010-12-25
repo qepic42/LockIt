@@ -263,7 +263,7 @@
 /* Begin PBXProject section */
 		106B9C8312676C0E00773A70 /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "LockIt" */;
+			buildConfigurationList = 106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "lockIt" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -410,7 +410,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "LockIt" */ = {
+		106B9C8612676C0E00773A70 /* Build configuration list for PBXProject "lockIt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				106B9CAC12676C0F00773A70 /* Debug */,

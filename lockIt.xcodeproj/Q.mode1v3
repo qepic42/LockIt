@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -277,9 +279,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>8</integer>
-									<integer>4</integer>
-									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -314,8 +313,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -333,7 +330,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>10B6D8A012B033A20042EDFA</string>
+										<string>106FD54212C509D00087B6C9</string>
 										<key>history</key>
 										<array>
 											<string>10B1DEC61267947C0073B0C7</string>
@@ -347,11 +344,10 @@
 											<string>10B6D86912B030070042EDFA</string>
 											<string>10B6D89812B033A20042EDFA</string>
 											<string>10B6D89A12B033A20042EDFA</string>
-											<string>10B6D89B12B033A20042EDFA</string>
 											<string>10B6D89D12B033A20042EDFA</string>
 											<string>10B6D89E12B033A20042EDFA</string>
 											<string>10B6D89F12B033A20042EDFA</string>
-											<string>1041DC1A127DF82100F60C14</string>
+											<string>10B6D8A012B033A20042EDFA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -409,9 +405,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>10B6D8A112B033A20042EDFA</string>
+				<string>106FD54312C509D00087B6C9</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>10B6D8A212B033A20042EDFA</string>
+				<string>106FD54412C509D00087B6C9</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -551,8 +547,7 @@
 	<array>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>100C70B312676D4600E4A16A</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>/Users/Q/Desktop/LockIt/LockIt.xcodeproj</string>
+		<string>/Users/Q/Sites/Lockit/lockIt.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1280 719 0 0 1280 778 </string>
@@ -632,7 +627,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>100C70B312676D4600E4A16A</string>
-				<string>10B6D88012B030CC0042EDFA</string>
+				<string>106FD54512C509D00087B6C9</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -754,13 +749,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>10B6D88112B030CC0042EDFA</string>
+				<string>106FD54612C509D00087B6C9</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>10B6D88212B030CC0042EDFA</string>
-				<string>10B6D88312B030CC0042EDFA</string>
-				<string>10B6D88412B030CC0042EDFA</string>
-				<string>10B6D88512B030CC0042EDFA</string>
-				<string>10B6D88612B030CC0042EDFA</string>
+				<string>106FD54712C509D00087B6C9</string>
+				<string>106FD54812C509D00087B6C9</string>
+				<string>106FD54912C509D00087B6C9</string>
+				<string>106FD54A12C509D00087B6C9</string>
+				<string>106FD54B12C509D00087B6C9</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
